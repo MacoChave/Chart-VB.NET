@@ -1,0 +1,10 @@
+c:\users\u\Visual Studio 2013\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\u\Visual Studio 2013\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\u\Visual Studio 2013\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\u\Visual Studio 2013\Chart\Chart\bin\Debug\Chart.xml
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.Grafica.resources
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.Resources.resources
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.vbproj.GenerateResource.Cache
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.xml
+C:\Users\u\Visual Studio 2013\Chart\Chart\obj\Debug\Chart.pdb
